@@ -13,10 +13,6 @@ library(devtools)
 install_github("huilingliao/AcqS-EventDetection")
 ```
 
-% ## Example
-% ```{r}
-% ```
-
 ## Author
 This package is written by Huiling Liao (hliao13@iit.edu). 
 
